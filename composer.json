@@ -1,0 +1,11 @@
+{
+    "name": "stagiaire/router",
+    "description": "un routeur basique php",
+    "authors": [
+        {
+            "name": "kevinho19",
+            "email": "kevin.b_19@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
